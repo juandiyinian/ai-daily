@@ -1,7 +1,9 @@
 title: AI Daily Report
 description: 每日AI行业动态、大模型进展与前沿技术简报
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_downloads: false
 github:
-  is_project_page: true
   repository_url: https://github.com/juandiyinian/ai-daily
+# 自定义页脚信息
+footer_content: "✨ 本报告每日20:00自动更新，由 <a href=\"https://github.com/openclaw/openclaw\" target=\"_blank\">OpenClaw</a> 智能生成"
+
