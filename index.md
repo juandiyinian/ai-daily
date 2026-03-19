@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         day: 'single',
       },
       visibility: {
-        weekend: false,
+        weekend: true,
         daysOutside: false,
       },
       lang: 'zh-CN',
